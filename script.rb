@@ -1,6 +1,4 @@
-def soma(x, y=1)
-  return x + y
-end
-
-print (soma(10))
-print (soma(10, y=34))
+lista = [1, 3, 45, 399]
+n = 45
+valor = lista.find_index(n)
+print(valor)
